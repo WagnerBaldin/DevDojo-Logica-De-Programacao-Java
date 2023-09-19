@@ -1,6 +1,13 @@
 public class _5_TestandoVariaveis {
     public static void main(String[] args) {
 
+        // byte, short e long
+        byte idade = 120;
+        int contador = 2000;
+        long serialNumber = 654321416;
+        System.out.println(idade);
+        System.out.println(contador);
+        System.out.println(serialNumber);
         // variavel char usada com aspas simples ''
 
         char masculino = 'M';
@@ -33,7 +40,7 @@ public class _5_TestandoVariaveis {
         System.out.println(masculino2 + feminino2);
 
         // Imprimindo as condições
-        System.out.println("Gosto de programar em Java:     Foi também! " + condicao_1);
+        System.out.println("Gosto de programar em Java: Foi também! " + condicao_1);
         System.out.println("Tambem gosto de musica caipira: " + condicao_2);
     }
 }
