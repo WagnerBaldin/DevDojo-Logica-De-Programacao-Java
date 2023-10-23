@@ -1,6 +1,9 @@
 import java.util.Scanner;
+// Pegar um nome digitado no tecladp
+// pegar uma idade digitada no teclado
+// imprimir uma frase com esses dados armazenados
 
-public class _11_RecebendoDadosDoTeclado {
+public class _12_RecebendoDadosDoTeclado {
     public static void main(String[] args) {
         System.out.println("Recebendo dados do Teclado");
 
